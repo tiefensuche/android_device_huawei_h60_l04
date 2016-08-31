@@ -1,1 +1,1 @@
-add_lunch_combo cm_h60_l04-eng
+add_lunch_combo aosp_h60_l04-eng
